@@ -24,7 +24,7 @@ Name Predictor is a simple web application that predicts the gender associated w
 
 ## Demo 🎥
 
-[Live Demo]([#](https://abhisekhnayek.github.io/Name_Predictor/))
+[Live Demo]([(https://abhisekhnayek.github.io/Name_Predictor/)])
 
 ## Installation 🔧
 
